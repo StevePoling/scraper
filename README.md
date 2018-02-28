@@ -35,3 +35,14 @@ The Graphical User Interface is equivalent to the Command-line interface, but it
 ![Graphical User Interface](./screenshot.png)
 
 Fill out the filename, username, and password text boxes then click the "Start" button. Scraper will do its thing and announce when it is finished.
+
+# Dependencies
+
+You need Python 3.6 and these packages:
+
+- argparse
+- gooey
+- selenium
+- xlsxwriter
+
+I developed this in Visual Studio Code and highly recommend it.

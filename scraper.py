@@ -1,7 +1,5 @@
 # scrape links from AmazonStaging.DematicTraining.com
 # https://amazonstaging.dematictraining.com/login/index.php?saml=off
-# todo: add progress bar
-# todo: add status message
 import argparse
 from gooey import Gooey, GooeyParser
 from selenium import webdriver
